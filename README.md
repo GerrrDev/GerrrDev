@@ -9,12 +9,8 @@
   About Me
 </h3>
 <p align="center">
-  I am a student passionate about technology, currently 18 years old and studying a degree in Information Technology in my first year. I am very interested in software development and web pages. I am driven by learning new things continuously and constantly evolving.
+  IT student training as Full Stack developer. I am 19 years old, I am passionate about solving problems and generating significant changes.
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gerrrdev&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="gerrrdev's Stats" />
-</div>
 
 #
 
