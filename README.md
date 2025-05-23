@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="45" height="45" />
 </h1>
 
-![Banner](https://github.com/GerrrDev/GerrrDev/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png?raw=true)
-
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Medium-Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Medium-Light Skin Tone" width="30" height="30" /> 
   About Me
